@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(315deg, #234f91 0%, #6da9e4 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "PT Serif", serif;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #e6e1e1;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    padding: 95px;
+}
+
+button {
+    background-color: #7b8284;
+    color: rgb(255, 255, 255);
+    font-family: "PT Serif", serif;
+    width: 100%;
+    border: 1px solid rgb(111, 105, 105);
+    font-size: 15px;
+    padding: 10px; 
+}
+
+label {
+    display: block;
+    font-size: 15px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.one, .two, .three, .four, .five {
+  padding: 10px;
+}
+
+#schow {
+    font-family: "PT Serif", serif;
+    font-size: 20px;
+    margin: auto;
+}  
